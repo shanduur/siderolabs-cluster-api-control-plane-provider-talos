@@ -1,6 +1,6 @@
 # THIS FILE WAS AUTOMATICALLY GENERATED, PLEASE DO NOT EDIT.
 #
-# Generated on 2025-05-14T09:49:54Z by kres 5ad3e5f.
+# Generated on 2025-11-17T11:45:38Z by kres e1d6dac.
 
 policies:
   - type: commit
@@ -12,7 +12,7 @@ policies:
           gitHubOrganization: siderolabs
       spellcheck:
         locale: US
-      maximumOfOneCommit: true
+      maximumOfOneCommit: false
       header:
         length: 89
         imperative: true
